@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeguet)](https://github.com/soeguet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeguet&layout=compact)](https://github.com/soeguet/github-readme-stats)
+
+![soeguet's GitHub stats](https://github-readme-stats.vercel.app/api?username=soeguet&show_icons=true&theme=transparent)
+
+[![soeguet's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soeguet)](https://github.com/soeguet/github-readme-stats)
